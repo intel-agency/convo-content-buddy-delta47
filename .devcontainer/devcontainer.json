@@ -1,5 +1,5 @@
 {
-  "name": "convo-content-buddy-delta47-devcontainer",
+  "name": "ConvoContentBuddy-devcontainer",
   "image": "ghcr.io/intel-agency/convo-content-buddy-delta47/devcontainer:main-latest",
   "containerEnv": {
     "DOTNET_ROOT": "/usr/share/dotnet"
