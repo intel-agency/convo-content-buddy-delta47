@@ -2,8 +2,9 @@
 name: Copilot Task
 about: Create a new task for GitHub Copilot to implement
 title: "[TASK] "
-labels: ["copilot-task", "enhancement"]
-assignees: []
+labels: enhancement
+assignees: ''
+
 ---
 
 # Task Description
